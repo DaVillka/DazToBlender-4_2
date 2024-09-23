@@ -1,5 +1,5 @@
 # Daz To Blender Bridge
-A Daz Studio Plugin based on Daz Bridge Library, allowing transfer of Daz Studio characters and props to Blender.
+A Daz Studio Plugin based on Daz Bridge Library, allowing transfer of Daz Studio characters and props to Blender 4.2
 
 * Owner: [Daz 3D][OwnerURL] – [@Daz3d][TwitterURL]
 * License: [Apache License, Version 2.0][LicenseURL] - see ``LICENSE`` and ``NOTICE`` for more information.
